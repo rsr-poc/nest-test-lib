@@ -1,0 +1,14 @@
+{
+  "name": "@rodrigosr/nest-test-lib",
+  "version": "1.0.0",
+  "description": "Test publish nestjs module",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "nest-test-lib"
+  ],
+  "author": "Rodrigo Rosa",
+  "license": "ISC"
+}
